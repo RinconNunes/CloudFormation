@@ -8,4 +8,4 @@ Resources:
     Type: 'AWS::S3::Bucket'
     Properties:
       BucketName: 'rincon-s3-bucket-yaml'
-      #Winning is amazing
+      #Winning is amazing johnm
