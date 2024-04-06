@@ -8,4 +8,6 @@ Resources:
     Type: 'AWS::S3::Bucket'
     Properties:
       BucketName: 'rincon-s3-bucket-yaml'
-      
+
+# Well done on perserverance 
+    
